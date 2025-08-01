@@ -11,7 +11,6 @@
   "keywords": ["tourism", "api", "reservations", "nodejs", "express", "mongodb"],
   "author": "TourCraft Team",
   "license": "ISC",
-  "type": "module",
   "description": "API completa para gestión de reservas turísticas y zonas turísticas",
   "dependencies": {
     "bcryptjs": "^3.0.2",
